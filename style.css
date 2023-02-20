@@ -1,0 +1,242 @@
+*{
+    margin-top: 0%;
+    padding-top: 0%;
+}
+body{
+    margin: 0;
+    background-color: #f9f9f9;
+}
+header{
+    float: left;
+    width: 100%;
+    min-height: 80px;   
+    background-color: #fe0000;
+} 
+
+.containerfull{
+    float: left;
+    width: 100%;
+
+}
+
+.container{
+    width: 90%;
+    margin: 0 auto;
+}
+.toplogo{
+    padding: 10px 0px;
+
+}
+section{
+    margin: 0px 0px;
+
+}
+.padd{
+    padding: 10px 0px;
+}
+.mr{
+    margin-right: 1%;
+}
+.bgwhite{
+    background-color:#ffffff;
+
+}
+.boxmenuleft{
+    
+    float: left;
+    width: 10%;
+}
+.boxmenuright{
+    float: left;
+    width: 90%;
+
+}
+.bannerlon{
+    padding: 0px 0px;
+    float: left;
+    width: 68.5%;
+}
+.bannernho{
+    padding: 0px 0px;
+    float: left;
+    width: 30.5%;
+    
+}
+.bannerlon img, .bannernho img{
+     width: 100%;
+}
+.bannernho img{
+    padding: 0px 0px;
+    margin-bottom: 5px;
+}
+ .boxsp{
+    float: left;
+    width: 20%;
+ }
+ .mr5px{
+    margin-right: 5px;
+ }
+ .bannerphu{
+    text-align: center;
+    width: 100%;
+    margin: 0 auto;
+    height: 5%;
+ }
+ 
+ .box1{
+    border: 1px;
+    background-color: white;
+    height: 430px;
+    width: 1300px;
+    display: flex;
+ }
+.sanpham1{
+    margin-left: 5px;
+    margin-top: 10px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px 2px gray;
+    border-radius: 10px;
+    background-color: white;
+    height: 400px;
+    width: 250px;
+}
+.sanpham1 img{
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
+.sanpham1 a{
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 600;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sanpham1 label{
+    margin-left: 5px;
+    font-size: larger;
+    color: red;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box2{
+    border: 1px;
+    background-color: white;
+    height: 430px;
+    width: 1300px;
+    display: flex;
+}
+.dealhot img{
+    border: 1px solid white;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.sanpham2{
+    margin-left: 5px;
+    margin-top: 10px;
+    border: 1px solid white;
+    box-shadow: 1px 1px 2px 2px gray;
+    border-radius: 10px;
+    background-color: white;
+    height: 400px;
+    width: 250px;
+}
+.sanpham2 img{
+    margin-left: 10px;
+    padding-bottom: 30px;
+}
+.sanpham2 a{
+    margin-left: 5px;
+    text-decoration: none;
+    font-size: larger;
+    font-weight: 600;
+    color: grey;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.sanpham2 label{
+    margin-left: 5px;
+    font-size: larger;
+    color: red;
+    font-weight: 600;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.uudai1{
+    border: 1px;
+    background-color: white;
+    height: 30px;
+    width: 1300px;
+}
+.uudai2{
+    margin-top: 10px;
+    color: grey;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+.box3{
+    border: 1px;
+    background-color: white;
+    height: 270px;
+    width: 1300px;
+    display: flex;
+}
+.box3 img{
+    margin-left: 10px;
+}
+.box4{
+    border: 1px;
+    background-color: white;
+    height: 30px;
+    width: 1300px;
+}
+.box4 label{
+    color: grey;
+    margin-left: 10px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: larger;
+    font-weight: bolder;
+}
+.box5{
+    border: 1px;
+    background-color: white;
+    height: 60px;
+    width: 1300px;
+    display: flex;
+}
+.box5 button{
+    margin-top: 10px;
+    margin-left: 5px;
+    border: 1px gray solid;
+    background-color: white;
+    padding: 7px 20px 7px 20px;
+    border-radius: 3px;
+}
+.box6{
+    margin-top: 20px;
+    border: 1px;
+    background-color: white;
+    height: 430px;
+    width: 1300px;
+    display: flex;
+}
+.box7{
+    margin-top: 0px;
+    border: 1px;
+    background-color: white;
+    height: 430px;
+    width: 1300px;
+    display: flex;
+}
+.box8{
+    border: 1px;
+    background-color: white;
+    height: 370px;
+    width: 1300px;
+    display: flex;
+}
+.box8 .thongtin{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: medium;
+    margin-left: 50px;
+}
